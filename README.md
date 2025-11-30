@@ -1,5 +1,8 @@
 ## GitHub Stats
-![Yuuine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuuine&show_icons=true&theme=cobalt)
+![Yuuine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuuine)
+
+## Activity
+![Yuuine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuuine)
 
 ## Skills
 
